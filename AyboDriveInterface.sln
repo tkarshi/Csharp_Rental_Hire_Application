@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AyboDriveInterface", "Pogramming Sample Interface\AyboDriveInterface.csproj", "{00563B2D-40C6-4C11-B2F8-0748F476818D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00563B2D-40C6-4C11-B2F8-0748F476818D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00563B2D-40C6-4C11-B2F8-0748F476818D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00563B2D-40C6-4C11-B2F8-0748F476818D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00563B2D-40C6-4C11-B2F8-0748F476818D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {494ADA18-8734-4587-BDA2-A1DB0C07C7ED}
+	EndGlobalSection
+EndGlobal
